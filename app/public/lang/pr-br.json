@@ -1,0 +1,200 @@
+{
+    "+G35mR": {
+      "defaultMessage": "Abrir barra lateral"
+    },
+    "+LMWDJ": {
+      "defaultMessage": "Histórico do Chat",
+      "description": "Título para a tela de histórico do chat"
+    },
+    "/xTTti": {
+      "defaultMessage": "Configurações do usuário",
+      "description": "Item de menu que abre a tela de configurações do usuário"
+    },
+    "0vL5u1": {
+      "defaultMessage": "Criar uma conta"
+    },
+    "1j61Mn": {
+      "defaultMessage": "Ou criar uma conta",
+      "description": "Rótulo para um botão na página de login que permite ao usuário criar uma conta em vez disso"
+    },
+    "1r/ryM": {
+      "defaultMessage": "Cancelar",
+      "description": "Rótulo para o botão que pode ser clicado enquanto a IA está gerando uma resposta para cancelar a geração"
+    },
+    "2GFjIN": {
+      "defaultMessage": "Digite sua senha"
+    },
+    "3T9nRn": {
+      "defaultMessage": "Sua chave API é armazenada apenas neste dispositivo e nunca é transmitida para ninguém, exceto para a OpenAI."
+    },
+    "5sg7KC": {
+      "defaultMessage": "Senha"
+    },
+    "6LJByb": {
+      "defaultMessage": "Carregando áudio...",
+      "description": "Mensagem indicando que o áudio de texto para fala está sendo carregado"
+    },
+    "74eGxP": {
+      "defaultMessage": "Novo Chat",
+      "description": "Rótulo para o botão usado para iniciar uma nova sessão de chat"
+    },
+    "8CYNFt": {
+      "defaultMessage": "Ainda sem chats.",
+      "description": "Mensagem exibida na tela de Histórico do Chat para novos usuários que ainda não iniciaram sua primeira sessão de chat"
+    },
+    "8HJxXG": {
+      "defaultMessage": "Cadastre-se"
+    },
+    "Bi0lS9": {
+      "defaultMessage": "Compartilhar",
+      "description": "Rótulo para o botão usado para criar um URL de compartilhamento público para um registro de chat"
+    },
+    "Bm3EKs": {
+      "defaultMessage": "Salvar alterações",
+      "description": "Rótulo para um botão que aparece quando o usuário está editando o texto de uma de suas mensagens, para salvar as alterações"
+    },
+    "CIe3Dt": {
+      "defaultMessage": "Nota: Este modelo só funcionará se sua conta OpenAI tiver sido concedida acesso a ele. <a>Solicite acesso aqui.</a>"
+    },
+    "FEzBCd": {
+      "defaultMessage": "Sem título",
+      "description": "Título padrão para sessões de chat sem título"
+    },
+    "Fko0yT": {
+      "defaultMessage": "Parar",
+      "description": "Rótulo para o botão que interrompe a reprodução de texto para fala"
+    },
+    "HyS0qp": {
+      "defaultMessage": "Fechar barra lateral"
+    },
+    "KKa5Br": {
+      "defaultMessage": "Dê ao ChatGPT uma voz humana real conectando sua conta ElevenLabs (visualize as vozes disponíveis abaixo). <a>Clique aqui para se cadastrar.</a>"
+    },
+    "KbUcBc": {
+      "defaultMessage": "Sua chave API ElevenLabs"
+    },
+    "L5s+z7": {
+      "defaultMessage": "O uso da chave API OpenAI é cobrado a uma taxa de pagamento conforme o uso, separado da assinatura do ChatGPT."
+    },
+    "MI5gZ+": {
+      "defaultMessage": "Baixar SVG"
+    },
+    "N2NGTf": {
+      "defaultMessage": "Conversar com GPT",
+      "description": "Nome do aplicativo"
+    },
+    "NgCT/u": {
+      "defaultMessage": "Digite seu endereço de e-mail"
+    },
+    "O83lC6": {
+      "defaultMessage": "Digite uma mensagem aqui..."
+    },
+    "Q97T+z": {
+      "defaultMessage": "Cole sua chave API aqui"
+    },
+    "S9BFby": {
+      "defaultMessage": "Reproduzir",
+      "description": "Rótulo para o botão que inicia a reprodução de texto para fala"
+    },
+    "SQJto2": {
+      "defaultMessage": "Entrar"
+    },
+    "T8gKkC": {
+      "defaultMessage": "Excluir este chat"
+    },
+    "Tgo3vj": {
+      "defaultMessage": "Editar",
+      "description": "Rótulo para o botão que o usuário pode clicar para editar o texto de uma de suas mensagens"
+    },
+    "UbN3HK": {
+      "defaultMessage": "Entrar <h>para sincronizar</h>",
+      "description": "Rótulo para o botão de login, indicando que o objetivo de entrar é sincronizar seus dados entre dispositivos. O texto menos importante dentro das tags <h> é oculto em telas pequenas."
+    },
+    "VL24Xt": {
+      "defaultMessage": "Pesquisar em seus chats"
+    },
+    "Xzm66E": {
+      "defaultMessage": "Conecte sua conta OpenAI para começar"
+    },
+    "Y0tGn6": {
+      "defaultMessage": "Ou faça login em uma conta existente",
+      "description": "Rótulo para um botão na página de Criar Conta que permite ao usuário fazer login em sua conta existente"
+    },
+    "bIacvz": {
+      "defaultMessage": "Conversar com GPT - Aplicativo não oficial do ChatGPT",
+      "description": "Tag de título HTML"
+    },
+    "f/hGIY": {
+      "defaultMessage": "Olá, como posso ajudar hoje?",
+      "description": "Uma mensagem amigável que aparece no início de novas sessões de chat"
+    },
+    "gzJlXS": {
+      "defaultMessage": "Compartilhar",
+      "description": "Rótulo para um botão que compartilha o texto de uma mensagem de chat usando a funcionalidade de compartilhamento do dispositivo do usuário"
+    },
+    "h9+jXQ": {
+      "defaultMessage": "A Prompt do Sistema é uma mensagem invisível inserida no início do chat e pode ser usada para fornecer informações sobre o ChatGPT e diretrizes gerais para como ele deve responder. A tag <code>'{{ datetime }}'</code> é automaticamente substituída pela data e hora atual (use isso para dar à IA acesso ao tempo)."
+    },
+    "hJZwTS": {
+      "defaultMessage": "Endereço de e-mail"
+    },
+    "iqbKb2": {
+      "defaultMessage": "Salvar e Fechar",
+      "description": "Rótulo para o botão que fecha a tela de configurações, salvando quaisquer alterações"
+    },
+    "jU4MQH": {
+      "defaultMessage": "Renomear este chat"
+    },
+    "jtu3jt": {
+      "defaultMessage": "Você pode encontrar sua chave API clicando em seu avatar ou iniciais no canto superior direito do site ElevenLabs, em seguida, clicando em Perfil. Sua chave API é armazenada apenas neste dispositivo e nunca é transmitida para ninguém, exceto para a ElevenLabs."
+    },
+    "ljHOzQ": {
+      "defaultMessage": "Copiado",
+      "description": "Rótulo para o botão de copiar para a área de transferência após uma cópia bem-sucedida"
+    },
+    "mL4Q28": {
+      "defaultMessage": "ID de Voz Personalizada"
+    },
+    "raQMIg": {
+      "defaultMessage": "Cancelar",
+      "description": "Rótulo para o botão que aparece quando o usuário está editando o texto de uma de suas mensagens, para cancelar sem salvar as alterações"
+    },
+    "role-chatgpt": {
+      "defaultMessage": "ChatGPT",
+      "description": "Rótulo que é exibido acima das mensagens escritas pela IA (em oposição ao usuário)"
+    },
+    "role-system": {
+      "defaultMessage": "Sistema",
+      "description": "Rótulo que é exibido acima das mensagens inseridas automaticamente na conversa pelo sistema (em oposição ao usuário ou IA)"
+    },
+    "role-user": {
+      "defaultMessage": "Você",
+      "description": "Rótulo que é exibido acima das mensagens escritas pelo usuário (em oposição à IA) nas sessões de chat do próprio usuário (primeira pessoa)."
+    },
+    "role-user-formal": {
+      "defaultMessage": "Usuário",
+      "description": "Rótulo que é exibido acima das mensagens escritas pelo usuário (em oposição à IA) para conversas compartilhadas publicamente (terceira pessoa, formal)."
+    },
+    "ss6kle": {
+      "defaultMessage": "Redefinir para o padrão"
+    },
+    "tZdXp/": {
+      "defaultMessage": "O parâmetro de temperatura controla a aleatoriedade das respostas da IA. Valores mais baixos tornarão a IA mais previsível, enquanto valores mais altos a tornarão mais criativa."
+    },
+    "upBSoW": {
+      "defaultMessage": "Copiar",
+      "description": "Rótulo para o botão de copiar para a área de transferência"
+    },
+    "xXbJso": {
+      "defaultMessage": "Sair"
+    },
+    "zBmup+": {
+      "defaultMessage": "Regenerar",
+      "description": "Rótulo para o botão usado para pedir à IA para regenerar uma de suas mensagens. Como as gerações de mensagens são estocásticas, a mensagem resultante será diferente."
+    },
+    "zFt1cV": {
+      "defaultMessage": "Encontre sua chave API aqui.",
+      "description": "Rótulo para o link que leva o usuário à página no site da OpenAI onde eles podem encontrar sua chave API."
+    }
+  }
+  

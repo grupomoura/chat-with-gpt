@@ -19,7 +19,7 @@ export const ttsServiceOptions: OptionGroup = {
         {
             id: 'service',
             displayOnSettingsScreen: "speech",
-            defaultValue: "elevenlabs",
+            defaultValue: "web-speech",
             displayAsSeparateSection: true,
             renderProps: {
                 type: "select",

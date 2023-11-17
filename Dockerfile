@@ -35,16 +35,16 @@ WORKDIR /app
 COPY ./server/package.json ./server/tsconfig.json ./
 
 # Install Node.js dependencies from package.json
-RUN npm install
+RUN yarn
 
 # Copy the rest of the application code into the working directory
 COPY ./server/src ./src
 
-RUN CI=true sh -c "cd /app && npm run start && rm -rf data"
+RUN CI=true sh -c "cd /app && yarn start && rm -rf data"
 
 COPY --from=build /app/build /app/public
 
 LABEL org.opencontainers.image.source="https://github.com/cogentapps/chat-with-gpt"
 ENV PORT 3000
 
-CMD ["npm", "run", "start"]
+CMD ["yarn", "run", "start"]

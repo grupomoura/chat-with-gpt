@@ -13,7 +13,7 @@ export const parameterOptions: OptionGroup = {
             displayAsSeparateSection: true,
             displayInQuickSettings: {
                 name: "Model",
-                displayByDefault: true,
+                displayByDefault: false,
                 label: (value) => value,
             },
             renderProps: (value, options, context) => ({
